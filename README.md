@@ -1,5 +1,2 @@
 # blank
-optional
-This line is pure text
-This is a #pound key
-  this is ?@ everything
+This is an experimental repository used as a gateway to explore GitHub
